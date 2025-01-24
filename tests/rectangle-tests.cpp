@@ -18,7 +18,7 @@ TEST(Sample, VariablesAreEqual)
 {
     int a = 1;
     int b = 1;
-    ASSERT_EQ(a, a);
+    ASSERT_EQ(a, b);
 }
 
 /* --------------------------------------------------------
